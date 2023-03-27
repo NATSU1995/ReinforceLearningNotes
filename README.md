@@ -17,4 +17,4 @@
 ## Related Works
 
  - [Deep reinforcement learning for supply chain and price optimization]https://blog.griddynamics.com/deep-reinforcement-learning-for-supply-chain-and-price-optimization/#fn2 
-    - Provided by Minxia
+    - Provided by Minxia	:tada:
