@@ -12,7 +12,7 @@
 
  - [d2l-zh]https://zh.d2l.ai/ 
 
- - [动手学深度学习]https://github.com/NATSU1995/ReinforceLearningNotes/blob/main/%E5%8A%A8%E6%89%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf
+ - [动手学深度学习](https://github.com/NATSU1995/ReinforceLearningNotes/blob/main/%E5%8A%A8%E6%89%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
 
 ## Related Works
 
