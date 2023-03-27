@@ -1,4 +1,4 @@
-# ReinforceLearningNotes
+# Reinforce Learning Notes
 
 ## 深入浅出强化学习
 
