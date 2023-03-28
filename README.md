@@ -17,7 +17,7 @@
  - [跟着李沐学AI](https://space.bilibili.com/1567748478?plat_id=1&share_from=space&share_medium=android&share_plat=android&share_session_id=ae359fd7-b976-4bae-855b-015a2f50a379&share_source=WEIXIN&share_tag=s_i&timestamp=1679981420&unique_k=KghRPNN)
 
  
-## Related Works
+## Related Materials
 
  - [Deep reinforcement learning for supply chain and price optimization](https://blog.griddynamics.com/deep-reinforcement-learning-for-supply-chain-and-price-optimization/#fn2) 
     - Provided by Minxia :tada:
