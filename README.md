@@ -25,3 +25,5 @@
  - [PyTorch深度学习快速入门教程](https://www.bilibili.com/video/BV1hE411t7RN/?share_source=copy_web&vd_source=64751e912901df8343990768a5b86899)
 
  - [笔记-PyTorch深度学习快速入门教程](https://blog.csdn.net/weixin_42306148/article/details/123754540?spm=1001.2014.3001.5501)
+
+ - [Four days Lessons - RL for Inventory](https://github.com/NATSU1995/RLforInventory/tree/main/slides)
